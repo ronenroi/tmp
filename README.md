@@ -1,7 +1,7 @@
 # GLASS: Global to Local Attention for Scene-Text Spotting
 
 
-<!--![Intro Figure](images/controllable_gan.gif)-->
+<!--![Intro Figure](images/architecture.png)-->
 <img src="images/glass.png" width="300" height="169"/>
 
 This is a PyTorch implementation of the following paper:
