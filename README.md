@@ -1,15 +1,14 @@
 # GLASS: Global to Local Attention for Scene-Text Spotting
 
 
-<!--![Intro Figure](images/architecture.png)-->
-<img src="images/glass.png" width="300" height="169"/>
-
 This is a PyTorch implementation of the following paper:
 
 **GLASS: Global to Local Attention for Scene-Text Spotting**, ECCV 2022.
 
 Roi Ronen, Shahar Tsiper, Oron Anschel, Inbal Lavi, Amir Markovitz and R. Manmatha.
 
+<!--![Intro Figure](images/architecture.png)-->
+<img src="images/architecture.png" width="1000" />
 
 **Abstract:**<br>
 In recent years, the dominant paradigm for text spotting is to combine the tasks of text detection and recognition into a single end-to-end framework. 
@@ -31,7 +30,7 @@ Our method achieves state-of-the-art results on multiple benchmarks, including t
 
 
 ## Installation
-Compilation of this package requires Detectron2 ver.>=0.6 pacage. Installation has been tested on  Linux using using anaconda package management.
+Compilation of this package requires Detectron2 ver.>=0.6 package. Installation has been tested on  Linux using using anaconda package management.
 
 Clone the repository into your local machine
 ```
