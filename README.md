@@ -34,7 +34,7 @@ Compilation of this package requires Detectron2 ver.>=0.6 package. Installation 
 
 Clone the repository into your local machine
 ```
-git clone https://github.com/amazon-research/GLASS_text_spotting
+git clone https://github.com/amazon-research/glass-text-spotting
 cd glass
 ```
 
@@ -46,7 +46,7 @@ conda activate glass
 
 Install required packages
 ```
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Training
