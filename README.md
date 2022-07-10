@@ -26,7 +26,7 @@ Our method achieves state-of-the-art results on multiple benchmarks, including t
 <br>
 
 **Result on Total-Text test dataset:**
-<center><img src="images/results.png" width="400"></center>
+<center><img src="images/results.png" width="1000"></center>
 
 
 
